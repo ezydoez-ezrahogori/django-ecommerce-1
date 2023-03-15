@@ -10,7 +10,7 @@ git clone https://github.com/ezydoez-ezrahogori/majengohardware
 
 --> Move into the directory where we have the project files : 
 ```bash
-cd django-ecommerce
+cd majengohardware
 
 ```
 
